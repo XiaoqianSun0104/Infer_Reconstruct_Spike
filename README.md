@@ -1,6 +1,6 @@
 # Introduction
 In this project, I translated a MATLAB implementation from Lütcke, Henry, et al. into Python, incorporating modifications to enhance usability, flexibility, and maintainability. The original MATLAB code served as a foundation for inferring spike trains from calcium imaging data and reconstructing calcium traces based on spkie dynamics, and my translation restructures it into an object-oriented design within a well-organized Python package.
-The original MATLAB can be found in the supplementary material with the publication - https://doi.org/10.3389/fncir.2013.00201
+The original MATLAB code is available in the supplementary material of the publication: https://doi.org/10.3389/fncir.2013.00201. 
 
 
 ## Overview
