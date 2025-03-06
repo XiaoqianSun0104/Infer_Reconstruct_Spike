@@ -24,4 +24,4 @@ In this folder, I provided some codes for exploring simulation & peeling
 - `1.6-spkTrain_2_ca2Traces.ipynb` reconstruct F/dff from spkTrain
 
 ## Data
-Contains data for jupyter notebooks in useCase folder
+Contains data for/generated from jupyter notebooks in useCase folder
